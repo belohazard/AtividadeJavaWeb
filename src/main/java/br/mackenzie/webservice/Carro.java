@@ -10,11 +10,5 @@ import lombok.Setter;
 public class Carro {
     private String modelo;
     private String marca;
-    public void setModelo(String modelo){
-        this.modelo = modelo;
-    }
-    public void setMarca(String marca){
-        this.marca = marca;
-    }
 
 }
